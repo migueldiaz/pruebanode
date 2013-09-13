@@ -2,14 +2,14 @@
 - capable of storing and retrieving xml records of the following form:
 
   <person>
-    <id>1</id>
-    <fname>Joe</fname>
-    <lname>Brown</lname>
-    <DOB>1987-03-04</DOB>  <!-- date of birth -->
-    <wage>100</wage>
-    <location>US</local>  <!-- one of three values: (US = United States, UK = United Kingdom, AU = Australia) -->
+  <id>1</id>
+  <fname>Joe</fname>
+  <lname>Brown</lname>
+  <DOB>1987-03-04</DOB>  <!-- date of birth -->
+  <wage>100</wage>
+  <location>US</local>  <!-- one of three values: (US = United States, UK = United Kingdom, AU = Australia) -->
   </person>
-  
+
 - implemented as a RESTful resource accessed through PUT/POST/GET is preferred, otherwise an equivalent server-side program is okay.
 - Any language is acceptable, but sever-side JS preferred.
  
