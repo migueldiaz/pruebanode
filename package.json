@@ -1,0 +1,11 @@
+{
+  "name": "Prueba_node",
+  "preferGlobal": true,
+  "version": "0.0.1",
+  "description": "CRUD for XML files",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:migueldiaz/pruebanode.git"
+  }
+  
+}
