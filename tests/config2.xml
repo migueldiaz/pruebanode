@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<people>
+	<person>
+		<id>1</id>
+		<fname>XXX</fname>
+		<lname>Brown</lname>
+		<DOB>1987-03-04</DOB>
+		<wage>100</wage>
+		<location>US</location>
+	</person>
+	<person>
+		<id>2</id>
+		<fname>Miguel</fname>
+		<lname>Diaz</lname>
+		<DOB>1987-03-04</DOB>  
+		<wage>1000</wage>
+		<location>US</location>
+	</person>
+<person><id>1</id><fname>Mano</fname><lname>ES</lname><DOB>21/5</DOB><wage>44</wage><location>ES</location></person></people>
