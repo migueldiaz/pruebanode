@@ -6,6 +6,8 @@
   "repository": {
     "type": "git",
     "url": "git@github.com:migueldiaz/pruebanode.git"
-  }
+  },
+  "dependencies" : {
+    "libxmljs"   :  "*"}
   
 }
